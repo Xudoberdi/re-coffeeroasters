@@ -617,7 +617,7 @@ body {
   .choose__list {
     padding-left: 5.8rem;
     padding-right: 5.8rem;
-    top: -25rem;
+    top: -9rem;
   }
   .choose__wrapper {
     display: flex;
@@ -687,7 +687,7 @@ body {
   .works {
     padding-bottom: 0rem;
     position: relative;
-    top: -25rem;
+    top: -15rem;
   }
   .works__container {
     position: relative;
